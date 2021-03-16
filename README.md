@@ -1,4 +1,11 @@
 
+# IMPORTANT ANNOUNCEMENT
+
+## Project development has been moved to https://github.com/RTC-research-group/Py-EDScorbotTool
+
+_________________________________________
+
+
 # Index
 
 1. [Establish connection](#Establish-connection)
